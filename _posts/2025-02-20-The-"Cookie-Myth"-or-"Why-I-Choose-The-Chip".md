@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The \"Cookie Myth\" or \"Why I Choose The Chip\""
 ---
 
