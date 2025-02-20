@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brent Halliburton
-subtitle: Products/Innovation/Art/Data
+subtitle: Product/Innovation/Data/Art
 email: bhalliburton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I make things, sometimes for myself, mostly for other people.
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Brent Halliburton"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Appreciates the beauty in math. Looking for ways to dramatically impact. Able to build software products/orgs, do a lot with a little, drive revenue."
+  bio    : "Appreciates the beauty in math. Looking for ways to dramatically impact businesses. Able to build software products/orgs, do a lot with a little, drive revenue."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
