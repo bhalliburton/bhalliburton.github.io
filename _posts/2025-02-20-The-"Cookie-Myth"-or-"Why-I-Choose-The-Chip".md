@@ -17,27 +17,32 @@ The secret is Fleischmann’s Original margarine, softened.  For some reason, us
 Regardless, here is the recipe, as my mother wrote it.  She has a flair for the dramatic.
 
 <h3>The “Cookie Myth” or “Why I Choose the Chip”</h3>
- 
+
 Preheat over 375 degrees
 Combine in a small bowl (dub this mixture A):
-2 ¼ cups unbleached flour 
-1 teaspoon baking soda
-1 teaspoon salt
+<ul>
+<li>2 ¼ cups unbleached flour</li>
+<li>1 teaspoon baking soda</li>
+<li>1 teaspoon salt</li>
+</ul>
 Mix lightly
 
 In a large mixing bowl:
-1 cup (2 sticks) Fleischmann’s Original margarine, softened
-¾ cup granulated sugar
-¾ cup packed light brown sugar
-1 teaspoon vanilla extract
+<ul>
+<li>1 cup (2 sticks) Fleischmann’s Original margarine, softened</li>
+<li>¾ cup granulated sugar</li>
+<li>¾ cup packed light brown sugar</li>
+<li>1 teaspoon vanilla extract</li>
+</ul>
 
 Cream (mix really well) mixture. -use electric beaters  Add 2 large eggs (emphasis hers), one at a time, mixing well after each addition.  Add flour mixture (A) slowly, mix well; batter will be stiff.
 
 Remove electric beaters and mix into batter 1-12 oz pkg Nestle’s Semi-Sweet Morsels.
 Drop by rounded teaspoons onto ungreased baking sheets.  Bake 8-9 min, until just brown.  Let rest on cookie sheet 2 min.; remove to rack (or wax paper) to cool completely before placing in airtight container.
+</ol>
 Happy Eating – Mom
 
-What do these boxes mean?  What do the underlines mean?  Do they contain some secret code that unlocks cookie nirvana?  I don’t know.
+Various things on the original page are circled or have a box drawn around them. What do these boxes mean?  What do underlines mean?  Do they contain some secret code that unlocks cookie nirvana?  I don’t know. I have omitted them for clarity.
 
 Now, I might imagine you are an editor at a major magazine of some renown.  And you may look at this and say “contrary to Mr. Halliburton’s other writing, this has absolutely no literary merit.  My word, the grammar is even worse than usual.  There is no reason I should publish this.”  But you would be wrong, except about the grammar.  Imagine instead the stacks of letters praising your decision to publish this information that would stream in.  Imagine the sales volume sky-rocketing.  Imagine the pass through readership and resulting increase in advertising revenue you could leverage from that.
 
