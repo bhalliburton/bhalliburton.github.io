@@ -8,13 +8,13 @@ To date, there has been minimal analysis of the interaction between these two th
 
 Determining the path by which a firm can navigate to a critical mass of customers and achieve mainstream market acceptance is the single most important task facing an entrepreneurial firm. There has been essentially no work looking at how entrepreneurial businesses can apply the concepts of the Innovator’s Dilemma to help them more effectively cross the chasm. This article will serve as an overview of a fruitful new area of exploration in the science of start-up marketing and management. It will attempt to look at approaches to crossing the chasm and introduce concepts that demonstrate how the rigorous principles of the Innovator’s Dilemma can provide a sturdy framework for an entrepreneur’s decision-making process.
 
-![Image](/images/chasm1.png)
+![Image](/assets/images/chasm1.png)
 
 <i>Figure 1: Norman‘s perspective on interaction</i>
 
 ## Innovator and Chasm Interaction
 
-![Image](/images/chasm2.png)
+![Image](/assets/images/chasm2.png)
 
 The Innovator’s Dilemma and the challenge of crossing the chasm are two sides of the same coin. The Innovator’s Dilemma defines disruptive technology as technology that has a low level of performance in the area that is the primary criteria for measurement by customers in a market yet excels in a different performance area, including aspects such as less expensive architecture. In the Innovator’s Dilemma, large, smart, visionary companies fail to successfully exploit disruptive and discontinuous technology change because they are so busy making steady, sustaining improvements in their products for their most challenging, largest, and most profitable customers. These customers receive no value from disruptive products that perform poorly in areas key to their value proposition. Smaller start-ups selling “imperfect” technology are forced to find under-served, tiny markets that allow them to grow their business and mature their technology until, at a certain point, the technology is “good enough” for the larger markets and more profitable customers, who recognize that the product is now good enough and with no warning to their long-time suppliers switch to the new technology.
 
@@ -22,7 +22,7 @@ One of the many examples that Christensen identifies is the transition from 5.25
 
 This is how 3.5 inch disk drive makers and Compaq crossed the chasm. Large computer manufacturers and hence 5.25 inch disk drive manufacturers were unsure of the laptop computer market opportunity and did not pursue this market.
 
-![Image](/images/chasm3.png)
+![Image](/assets/images/chasm3.png)
 
 <i>Figure 3: Moore‘s Technology Adoption Lifecycle</i>
 
@@ -38,7 +38,7 @@ Moore’s breakthrough was recognizing that the chasm exists and that a start-up
 
 In Christensen’s work he articulates an “after the fact” perspective of how many start-ups crossed the chasm by building what he called “value networks”. He defines value networks as the context within which a firm identifies and responds to customers needs, solves problems, reacts to competitors & strives for profit.
 
-![Image](/images/chasm4.png)
+![Image](/assets/images/chasm4.png)
 
 Building value network models sheds insight into market needs and reveals the key aspects of any given industries “whole product”. Defining value networks is effectively an exercise in accurate B-to-B segmentation. Christensen broadly segments a market into industry known criteria (PC’s, processors, laptops, etc.). Within each broad market segment he identifies key companies serving that market and the value proposition they offer. This exercise is only somewhat interesting in a historical context. In hindsight, it is easy to see notebook computers have different needs then PC’s and mainframe computers. What is not clear is how to identify the characteristics of a new market with brand new needs when you are an entrepreneur crossing the chasm.
 
@@ -60,11 +60,11 @@ Now that we have information about what our competitors value and what the marke
 
 All of these are essentially a proxy for revenue and profit potential in a market segment. The result is a model that might look like this:
 
-![Image](/images/chasm5.png)
+![Image](/assets/images/chasm5.png)
 
 In this example, Market 4 and Market 2 are the opportunities that this firm has to cross the chasm. Market 4 is the least attractive to competitors and the firm is able to build the most complete whole product for it. Market 2 is slightly more difficult for us to attack and slightly more attractive to competitors but it has certain features from a sales perspective and market opportunity that may appeal to the firm and make it worth choosing.
 
-![Image](/images/chasm6.png)
+![Image](/assets/images/chasm6.png)
 
 Our model represents Value Network Analysis as a circle because this data can now be fed back into the model to choose additional markets to target as “bowling pins”. The new whole product and new sales generated will drive the creation of a new Value Network Analysis model that suggests further market segments and applications for the entrepreneur’s products, enabling the bowling alley concept that Moore describes. Each market success creates new market opportunities which the start-up can conquer one niche at a time. This process continues until enough markets have been entered and bowling pins knocked down that critical mass is achieved and the company enters the “Tornado” phase of the technology adoption life cycle.
 
@@ -113,7 +113,7 @@ Transmeta should have identified a less competitive smaller market that it could
 
 This Value Network Model demonstrates the challenge of targeting the notebook market. While Transmeta was best suited to attack the laptop market segment, it was also the market that Transmeta’s most dangerous competitors were targeting.
 
-![Image](/images/chasm7.png)
+![Image](/assets/images/chasm7.png)
 <i>Figure 9: Simple Value Network Analysis</i>
 
 Transmeta would have been more successful if the company had attempted to “cross the chasm” in a market that was related but less competitive than notebook PCs. For example, Transmeta could have targeted the personal data assistant (PDA) segment. By targeting a less competitive, yet relatively compatible segment, Transmeta could have improved its opportunities to cultivate a dominant, industry leading position, allowing them to possibly have more of an impact on the early adopters. The PDA market is filled with companies both large and small using non-standard processors because Intel was not optimized for their product needs. By building relationships with customers in this space it could have developed revenue, profit, and partners that would allow it to target larger markets in the future. Unfortunately, because Transmeta directly challenged the market leaders in its targeted segment, the company provoked strong defensive reactions from the competition.
@@ -128,7 +128,7 @@ Salesforce.com is offering what its larger competitors such as Seibel, Oracle an
 
 Before Salesforce.com, smaller firms did not view CRMS systems as a practical option. The CRMS systems offered by companies, such as Seibel, required the installation of customized hardware and software applications, extensive transition assistance, and continuous system maintenance. These systems were very complicated, expensive and completely unsuited for smaller companies. However, because Salesforce.com hosts all of its CRMS applications on its own servers, the company has minimized the associated hardware and IT labor costs. Accordingly, clients only pay as they use the application. All product upgrades and improvements are included in their service fee. Before Saleforce.com, the industry only focused on companies that could afford to purchase and maintain an expensive CRMS systems onsite. Now smaller companies can outsource and leverage Salesforce.com’s expertise and operational efficiencies at drastically lower costs.
 
-![Image](/images/chasm8.png)
+![Image](/assets/images/chasm8.png)
 
 The larger CRMS leaders such as Siebel found themselves unable to focus on the market for a number of reasons. First, Siebel and its competitors had developed large direct sales forces that were designed to sell their products to the Global 2000. These sales forces were compensated primarily based on dollar volume and were never interested in speaking to smaller customers who might be just as hard to sell to but realize much smaller revenues. Smaller companies tend to value their few dollars just as much as larger companies value their incrementally higher ability to spend. Second, their best engineers were continually asked to focus on and address the needs of their largest and most profitable customers. This is the essence of the Innovator’s Dilemma. They were never able to focus product development or sales on the needs of this smaller market. Finally, cost structures inhibited competitor’s response. When Siebel considered how to respond, they were continually forced to ask themselves “what features can we take out of our products?” because if they offered their current products at a much lower price their customer base would revolt. Instead they stripped out as much as they could to keep their current customers happy, but each feature removed made their competitive offering that much less interesting to potential new customers. Meanwhile, each feature Salesforce.com adds to their product further enhances the value proposition for the entire customer base. This is possible because their business model and cost structure is already designed to support profits at this price point. The result is a customer base that is happy to see improvements in this area and supports Salesforce.com as they move upstream in the market.
 
