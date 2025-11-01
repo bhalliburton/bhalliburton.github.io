@@ -114,6 +114,7 @@ Transmeta should have identified a less competitive smaller market that it could
 This Value Network Model demonstrates the challenge of targeting the notebook market. While Transmeta was best suited to attack the laptop market segment, it was also the market that Transmeta’s most dangerous competitors were targeting.
 
 ![Image](/assets/images/chasm7.png)
+
 <i>Figure 9: Simple Value Network Analysis</i>
 
 Transmeta would have been more successful if the company had attempted to “cross the chasm” in a market that was related but less competitive than notebook PCs. For example, Transmeta could have targeted the personal data assistant (PDA) segment. By targeting a less competitive, yet relatively compatible segment, Transmeta could have improved its opportunities to cultivate a dominant, industry leading position, allowing them to possibly have more of an impact on the early adopters. The PDA market is filled with companies both large and small using non-standard processors because Intel was not optimized for their product needs. By building relationships with customers in this space it could have developed revenue, profit, and partners that would allow it to target larger markets in the future. Unfortunately, because Transmeta directly challenged the market leaders in its targeted segment, the company provoked strong defensive reactions from the competition.
