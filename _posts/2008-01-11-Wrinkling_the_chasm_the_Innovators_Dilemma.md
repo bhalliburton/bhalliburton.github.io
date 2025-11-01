@@ -150,7 +150,7 @@ Christensen, Clayton. The Innovator’s Dilemma. Harvard, MA: Harvard Business S
 
 Christensen, Clayton. The Innovator’s Solution. Harvard, MA: Harvard Business School Publishing Corporation, 2003
 
-Gray, Douglas, F. “Transmeta Confident Under Intel Pressure” IDG News Service 2001 <http://www.pcworld.com/news/article/0,aid,71284,00.asp (15 Nov. 2001)
+Gray, Douglas, F. “Transmeta Confident Under Intel Pressure” IDG News Service 2001 <http://www.pcworld.com/news/article/0,aid,71284,00.asp> (15 Nov. 2001)
 
 Leyden, John “Intel reacts to Transmeta threat” VNUNET.com 2000 <http://www.vnunet.com/News/1106738> (14 Jul. 2000)
 
