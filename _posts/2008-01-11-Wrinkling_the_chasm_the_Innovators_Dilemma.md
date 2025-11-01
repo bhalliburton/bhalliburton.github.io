@@ -1,5 +1,5 @@
 ---
-title:  Wrinkling the Chasm: How the Innovator’s Dilemma can guide the strategy of entrepreneurial businesses
+title:  Wrinkling the Chasm - How the Innovator’s Dilemma can guide the strategy of entrepreneurial businesses
 ---
 
 The Innovator’s Dilemma by Clayton Christensen (1997) and Crossing the Chasm by Geoffrey Moore (1995) are two of the most influential business textbooks published in the last decade. Scores of large businesses talk about the challenge of the Innovator’s Dilemma and how to recognize and adapt to discontinuous innovation in the face of customer demands for sustaining improvements on existing technology and customer aversion to new discontinuous technology. Every start-up in Silicon Valley uses Moore’s technology adoption life cycle as a model for understanding their business.
